@@ -1,0 +1,9 @@
+{
+  "id": "shamsi-daily-note",
+  "name": "Shamsi Daily Note",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Automatically creates and opens today's Hijri Shamsi daily note.",
+  "author": "OpenAI",
+  "isDesktopOnly": false
+}

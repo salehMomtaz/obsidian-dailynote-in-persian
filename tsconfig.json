@@ -1,0 +1,17 @@
+{
+  "name": "shamsi-daily-note",
+  "version": "1.0.0",
+  "description": "Obsidian plugin for automatic Hijri Shamsi daily notes",
+  "main": "main.js",
+  "scripts": {
+    "build": "node esbuild.config.mjs",
+    "dev": "node esbuild.config.mjs --watch"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.30",
+    "builtin-modules": "^3.3.0",
+    "esbuild": "^0.28.0",
+    "obsidian": "^1.5.12",
+    "typescript": "^5.4.3"
+  }
+}
